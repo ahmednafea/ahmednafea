@@ -1,4 +1,4 @@
-## Hi, I'm [Ahmed Nafea!] 👋
+## Hi, I'm Ahmed Nafea! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednafea&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
