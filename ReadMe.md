@@ -1,3 +1,7 @@
+## Hi, I'm [Ahmed Nafea!] 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednafea&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 # 💫About Me :
 - 🔭 I’m currently working on Camion.
 - 🌱 I’m currently learning more about Backend.
